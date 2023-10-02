@@ -1,2 +1,2 @@
 # new-project
-Author - Yogesh Kumar
+Author - Ashu Kumar
